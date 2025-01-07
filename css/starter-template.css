@@ -1,0 +1,17 @@
+body {
+  padding-top: 5px;
+}
+.starter-template {
+  padding: 2px 2px;
+  text-align: center;
+}
+.list-group-item {
+  font-size: 5vw;
+  
+}
+.terjemah {
+    font-size: 4vw;
+	font-style: italic;
+	color: #1f81e3;
+	font-family: Arial, Serif, "Times New Roman";
+}
